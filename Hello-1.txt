@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AlgÄorithm and Programming-1
+=======
+CE103 AÅlgorithms and Programming-1
+>>>>>>> feature/branch-1
